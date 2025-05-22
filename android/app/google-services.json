@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "491971037759",
+    "project_id": "cursor-sport",
+    "storage_bucket": "cursor-sport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491971037759:android:fca2b435b91d5db9b4468a",
+        "android_client_info": {
+          "package_name": "com.example.cursor28042025"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491971037759-8ue8usuj1auqiuqvpcmb9bm9111knf8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cursor28042025",
+            "certificate_hash": "a8c579c0d7c630c77f8ba8cfc2cb068cd8d2b2d5"
+          }
+        },
+        {
+          "client_id": "491971037759-rshga691v2u16rpo46vnrge7i6n2m87q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Htn_67dLMrJlwjxN5f9pxP_p0dSc8RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491971037759-rshga691v2u16rpo46vnrge7i6n2m87q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
