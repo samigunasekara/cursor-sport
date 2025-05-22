@@ -15,6 +15,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Play Social Sports',
+      debugShowCheckedModeBanner: false,      // ← removes the red DEBUG ribbon
       theme: ThemeData(
         primaryColor: const Color(0xFF00FF00), // Green color
         scaffoldBackgroundColor: const Color(0xFF121212), // Dark background
